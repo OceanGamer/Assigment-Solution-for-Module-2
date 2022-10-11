@@ -87,6 +87,9 @@ h1 {
   .col-md-6 {
     width: 32%;
   }
+  .col-md-7 {
+  	width: 32%;
+  }
 }
 
 /********** Medium devices only **********/
@@ -107,6 +110,9 @@ h1 {
   .floatright {
   	float: right;
   }
+  .col-md-7 {
+  	width: 100%;
+  }
 }
 
 /********** Medium devices only **********/
@@ -123,5 +129,8 @@ h1 {
   }
   .col-md-6 {
     width: 100%;
+  }
+  .col-md-7 {
+  	width: 100%;
   }
 }
